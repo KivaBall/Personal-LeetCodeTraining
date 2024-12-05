@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28. Find the Index of the F
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35. Search Insert Position", "src\35. Search Insert Position\35. Search Insert Position.csproj", "{79182838-6786-4A40-BA3A-00038378136E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "66. Plus One", "src\66. Plus One\66. Plus One.csproj", "{A07B77FC-0294-4504-93C4-92ED0359FD8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{79182838-6786-4A40-BA3A-00038378136E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{79182838-6786-4A40-BA3A-00038378136E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{79182838-6786-4A40-BA3A-00038378136E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07B77FC-0294-4504-93C4-92ED0359FD8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07B77FC-0294-4504-93C4-92ED0359FD8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07B77FC-0294-4504-93C4-92ED0359FD8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07B77FC-0294-4504-93C4-92ED0359FD8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,5 +78,6 @@ Global
 		{F07B8EA6-6E05-4430-B711-04B61978D89B} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{ADD78CD6-D171-4103-BA2F-DF55EEDCF272} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{79182838-6786-4A40-BA3A-00038378136E} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
+		{A07B77FC-0294-4504-93C4-92ED0359FD8D} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 	EndGlobalSection
 EndGlobal
