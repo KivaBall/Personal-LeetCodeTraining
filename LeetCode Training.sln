@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "67. Add Binary", "src\67. A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "69. Sqrt(x)", "src\69. Sqrt(x)\69. Sqrt(x).csproj", "{1F26541E-55E1-41DA-B9A9-DC0AEB5BABE8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "70. Climbing Stairs", "src\70. Climbing Stairs\70. Climbing Stairs.csproj", "{7E5CE293-A488-408C-870A-5D7BBC1E5569}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -77,6 +79,10 @@ Global
 		{1F26541E-55E1-41DA-B9A9-DC0AEB5BABE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F26541E-55E1-41DA-B9A9-DC0AEB5BABE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F26541E-55E1-41DA-B9A9-DC0AEB5BABE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E5CE293-A488-408C-870A-5D7BBC1E5569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E5CE293-A488-408C-870A-5D7BBC1E5569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E5CE293-A488-408C-870A-5D7BBC1E5569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E5CE293-A488-408C-870A-5D7BBC1E5569}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -93,5 +99,6 @@ Global
 		{A07B77FC-0294-4504-93C4-92ED0359FD8D} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{E5EA0932-5F98-4E9D-8FEF-C7C0F059C518} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{1F26541E-55E1-41DA-B9A9-DC0AEB5BABE8} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
+		{7E5CE293-A488-408C-870A-5D7BBC1E5569} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 	EndGlobalSection
 EndGlobal
