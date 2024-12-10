@@ -33,6 +33,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "83. Remove Duplicates from 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "src\88. Merge Sorted Array\88. Merge Sorted Array.csproj", "{5D1FF99C-95EF-406B-80B6-CE950AAAED73}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94. Binary Tree Inorder Traversal", "src\94. Binary Tree Inorder Traversal\94. Binary Tree Inorder Traversal.csproj", "{3D7F3AC5-B227-419B-AC02-B2864301211F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -95,6 +97,10 @@ Global
 		{5D1FF99C-95EF-406B-80B6-CE950AAAED73}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5D1FF99C-95EF-406B-80B6-CE950AAAED73}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5D1FF99C-95EF-406B-80B6-CE950AAAED73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,5 +120,6 @@ Global
 		{7E5CE293-A488-408C-870A-5D7BBC1E5569} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{CA4E08DA-59D5-488B-907B-CDB23FE23EEB} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{5D1FF99C-95EF-406B-80B6-CE950AAAED73} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
+		{3D7F3AC5-B227-419B-AC02-B2864301211F} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 	EndGlobalSection
 EndGlobal
