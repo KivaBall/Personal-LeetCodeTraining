@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "88. Merge Sorted Array", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "94. Binary Tree Inorder Traversal", "src\94. Binary Tree Inorder Traversal\94. Binary Tree Inorder Traversal.csproj", "{3D7F3AC5-B227-419B-AC02-B2864301211F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "100. Same Tree", "src\100. Same Tree\100. Same Tree.csproj", "{DA45521D-6503-46F4-B15F-DF6265472581}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -101,6 +103,10 @@ Global
 		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D7F3AC5-B227-419B-AC02-B2864301211F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA45521D-6503-46F4-B15F-DF6265472581}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA45521D-6503-46F4-B15F-DF6265472581}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA45521D-6503-46F4-B15F-DF6265472581}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA45521D-6503-46F4-B15F-DF6265472581}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -121,5 +127,6 @@ Global
 		{CA4E08DA-59D5-488B-907B-CDB23FE23EEB} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{5D1FF99C-95EF-406B-80B6-CE950AAAED73} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{3D7F3AC5-B227-419B-AC02-B2864301211F} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
+		{DA45521D-6503-46F4-B15F-DF6265472581} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 	EndGlobalSection
 EndGlobal
