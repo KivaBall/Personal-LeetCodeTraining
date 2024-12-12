@@ -47,6 +47,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "medium", "medium", "{1E6C0C
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hard", "hard", "{48B0E5E0-2BD5-42BF-A271-4EED6FA9A5F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Median of Two Sorted Arrays", "src\4. Median of Two Sorted Arrays\4. Median of Two Sorted Arrays.csproj", "{0E447DB3-3067-4E61-8D89-55C32E47D8FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{9DC2D7DD-9AD4-47DE-8126-5DD9289DBF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DC2D7DD-9AD4-47DE-8126-5DD9289DBF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DC2D7DD-9AD4-47DE-8126-5DD9289DBF1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E447DB3-3067-4E61-8D89-55C32E47D8FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E447DB3-3067-4E61-8D89-55C32E47D8FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E447DB3-3067-4E61-8D89-55C32E47D8FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E447DB3-3067-4E61-8D89-55C32E47D8FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -151,5 +157,6 @@ Global
 		{40DB9861-DA3D-4753-8139-3ACEA2E072FC} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{1E6C0C27-7B4C-45F5-8B5F-EF37F4EAFFC5} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
 		{48B0E5E0-2BD5-42BF-A271-4EED6FA9A5F8} = {FD4FA76E-41BD-4848-ADBA-80C7EBD92C54}
+		{0E447DB3-3067-4E61-8D89-55C32E47D8FA} = {48B0E5E0-2BD5-42BF-A271-4EED6FA9A5F8}
 	EndGlobalSection
 EndGlobal
