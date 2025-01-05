@@ -1,5 +1,5 @@
 # LeetCode Training
 
-THAT'S NOT MY PET PROJECT!
+I use this repo for tasks from leetcode 😎
 
-I use this repo for tasks from leetcode :)
+You can check all of this in `src/` folder!
